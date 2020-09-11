@@ -123,7 +123,7 @@ Related discussion: https://github.com/bbatsov/solarized-emacs/issues/158"
   :type 'boolean
   :group 'solarized)
 
-(defcustom solarized-termcolors nil
+(defcustom solarized-termcolors t
   "Use terminal color scheme for base colors, instead of the 256 color palette."
   :type 'boolean
   :group 'solarized)
